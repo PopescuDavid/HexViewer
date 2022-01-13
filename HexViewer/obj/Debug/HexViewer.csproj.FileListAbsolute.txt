@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\FACULTATE\ARHITECTURA SISTEMELOR DE CALCUL\HexViewer\HexViewer\bin\Debug\HexViewer.exe.config
+C:\Users\David\Desktop\FACULTATE\ARHITECTURA SISTEMELOR DE CALCUL\HexViewer\HexViewer\bin\Debug\HexViewer.exe
+C:\Users\David\Desktop\FACULTATE\ARHITECTURA SISTEMELOR DE CALCUL\HexViewer\HexViewer\bin\Debug\HexViewer.pdb
+C:\Users\David\Desktop\FACULTATE\ARHITECTURA SISTEMELOR DE CALCUL\HexViewer\HexViewer\obj\Debug\HexViewer.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\FACULTATE\ARHITECTURA SISTEMELOR DE CALCUL\HexViewer\HexViewer\obj\Debug\HexViewer.exe
+C:\Users\David\Desktop\FACULTATE\ARHITECTURA SISTEMELOR DE CALCUL\HexViewer\HexViewer\obj\Debug\HexViewer.pdb
